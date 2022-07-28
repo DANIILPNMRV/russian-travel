@@ -4,7 +4,7 @@
 
 ## Страница сайта про путешествия о России  
 
-**[Ссылка на проект](https://github.com/DANIILPNMRV/russian-travel.git)**  
+**[Ссылка на проект](https://daniilpnmrv.github.io/russian-travel/)**  
 
 **[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A752)**
 
