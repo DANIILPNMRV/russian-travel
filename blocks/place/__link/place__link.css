@@ -3,6 +3,7 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
+    max-width: fit-content;
     text-decoration: underline;
     color: #fff;
     margin: 0;
